@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redhawk2002
+- 👋 Hi, I’m `@redhawk2002`
 - 👀 I’m interested in `Web Dev`,`CP`
 - 🌱 I’m currently learning `DSA`
 - 💞️ I’m looking to collaborate on ...
