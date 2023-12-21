@@ -1,3 +1,6 @@
+
+![github-header-image (3)](https://github.com/redhawk2002/redhawk2002/assets/77795912/8c93f589-6054-42aa-935e-571bcf80e430)
+
 # 💫 About Me
 I am an undergraduate with a passion for backend development and exploring new technologies. Seeking innovative projects to make an impact in technology. Let's connect and create something amazing!
 
